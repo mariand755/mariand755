@@ -1,5 +1,5 @@
 
-<h1 align="center"> Senior Mobile QE / SDET</b> • iOS & Android Platforms • CI-first Automation </h1>
+<h3 align="center"> Senior Mobile QE / SDET</b> • iOS & Android Platforms •   CI-first Automation </h3>
   
 
 <p align="center">

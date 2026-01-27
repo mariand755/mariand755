@@ -1,5 +1,5 @@
 
-<h3 align="center"> Senior Mobile QE / SDET</b> • iOS & Android Platforms •   CI-first Automation </h3>
+<h2 align="center"> Senior Mobile QE / SDET</b> • iOS & Android Platforms •   CI-first Automation </h2>
   
 
 <p align="center">
@@ -75,15 +75,12 @@ class MarianDadzie:
         self.role = "Senior Mobile QE / SDET"
 
         self.fun_facts = {
-            "born": "Takoradi, Ghana",
+            "born": "Ghana",
             "hobbies": [
                 "Theater",
-                "Coloring",
                 "Gardening",
                 "Baking",
                 "Reading",
-                "DIY",
-                "Dramas",
             ],
         }
 
@@ -124,7 +121,7 @@ class MarianDadzie:
     def looking_for(self):
         roles = ", ".join(self.looking_for_roles[:-1]) + f", and {self.looking_for_roles[-1]}"
         return (
-            f"I’m currently looking for {roles} roles where I can help teams."
+            f"I’m currently looking for {roles} roles where I can help teams "
             f"scale mobile quality, improve CI/CD confidence, and mentor engineers."
         )
 
@@ -138,7 +135,6 @@ class MarianDadzie:
 if __name__ == "__main__":
     me = MarianDadzie(audience="recruiter")
 
-    print(me)                
     print(me.summary())       
     print(me.looking_for())   
 

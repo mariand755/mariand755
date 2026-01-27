@@ -9,14 +9,16 @@
 </p>
 
 <p align="center">
-  <img alt="Appium" src="https://img.shields.io/badge/Appium-automation-informational">
-  <img alt="WebdriverIO" src="https://img.shields.io/badge/WebdriverIO-mobile-informational">
-  <img alt="PyTest" src="https://img.shields.io/badge/PyTest-python-informational">
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-CI-informational">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-containers-informational">
-  <img alt="Sauce Labs" src="https://img.shields.io/badge/Sauce_Labs-cloud_devices-informational">
-  <img alt="Allure" src="https://img.shields.io/badge/Allure-reporting-informational">
+  <img src="https://img.shields.io/badge/APPIUM-AUTOMATION-informational?style=for-the-badge">
+  <img src="https://img.shields.io/badge/WEBDRIVERIO-MOBILE-informational?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PYTEST-PYTHON-informational?style=for-the-badge">
+  <img src="https://img.shields.io/badge/GITHUB_ACTIONS-CI-informational?style=for-the-badge">
+  <img src="https://img.shields.io/badge/DOCKER-CONTAINERS-informational?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SAUCE_LABS-CLOUD_DEVICES-informational?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ALLURE-REPORTING-informational?style=for-the-badge">
 </p>
+
+
 
 ---
 

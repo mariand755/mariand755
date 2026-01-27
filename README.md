@@ -1,8 +1,6 @@
 
-<h1 align="center">Marian Dadzie</h1>
-<p align="center">
-  <b>Senior Mobile QE / SDET</b> • iOS & Android Platforms • CI-first Automation
-</p>
+<h1 align="center"> Senior Mobile QE / SDET</b> • iOS & Android Platforms • CI-first Automation </h1>
+  
 
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/mariandadzie/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>

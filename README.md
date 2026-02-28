@@ -1,5 +1,5 @@
 
-<h2 align="center"> Senior Mobile QE / SDET</b> • iOS & Android Platforms •   CI-first Automation </h2>
+<h2 align="center"> Senior Quality Engieer </b> • Automation Architecture & CI/CD Governance •  Mobile, API & Distributed Systems </h2>
   
 
 <p align="center">
@@ -12,15 +12,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/APPIUM-AUTOMATION-informational?style=for-the-badge">
-  <img src="https://img.shields.io/badge/WEBDRIVERIO-MOBILE-informational?style=for-the-badge">
-  <img src="https://img.shields.io/badge/PYTEST-PYTHON-informational?style=for-the-badge">
-  <img src="https://img.shields.io/badge/GITHUB_ACTIONS-CI-informational?style=for-the-badge">
-  <img src="https://img.shields.io/badge/DOCKER-CONTAINERS-informational?style=for-the-badge">
-  <img src="https://img.shields.io/badge/SAUCE_LABS-CLOUD_DEVICES-informational?style=for-the-badge">
-  <img src="https://img.shields.io/badge/ALLURE-REPORTING-informational?style=for-the-badge">
+  <img src="https://img.shields.io/badge/APPIUM-informational?style=for-the-badge">
+  <img src="https://img.shields.io/badge/WEBDRIVERIO-informational?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PYTHON-informational?style=for-the-badge">
+  <img src="https://img.shields.io/badge/GITHUB_ACTIONS-informational?style=for-the-badge">
+  <img src="https://img.shields.io/badge/DOCKER-informational?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SAUCE_LABS-informational?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ALLURE-informational?style=for-the-badge">
 </p>
-
 
 
 ---
@@ -28,66 +27,68 @@
 ## Choose your view
 
 <details open>
-  <summary><b>Recruiter View (fast + impact)</b></summary>
+  <summary><b>Recruiter View </b></summary>
 
   <br/>
 
-  I **build scalable mobile quality solutions** that help Teams **ship faster with confidence**.
-  I’ve worked in regulated and high-scale environments across:
-  FinTech/Payments, Travel/Booking, Enterprise SaaS, 
-  Retail/E-commerce, and Healthcare-adjacent platforms.
+I design and scale quality systems that help teams ship faster with confidence.
 
-  **What you’ll get with me**
-  - Scalable mobile automation frameworks Teams can trust
-  - CI-ready testing with fast feedback (PR gates, smoke, regression)
-  - Strong cross-functional collaboration (Engineering, Product, Leadership)
-  - Mentorship + raising the quality bar across Teams
+With 12+ years across FinTech/Payments, Travel, Enterprise SaaS, Retail, and Healthcare-adjacent platforms. 
+I’ve led automation initiatives that move teams from manual validation to CI/CD-integrated release governance.
 
-  **Currently focused on**
-  - iOS + Android automation at scale
-  - CI/CD quality gates and PR validation
-  - Frameworks that support parallel execution and stable test data
+**What you get working with me**:
+- Enterprise-grade automation platforms built from zero
+- CI/CD quality gates and PR validation pipelines
+- Risk-based coverage informed by production observability
+- Release confidence grounded in measurable validation
+- Strong cross-functional alignment across Engineering, Product, and DevOps
+- Mentorship and elevation of quality standards across teams
+
+Focused on building systems that don’t just pass tests - but hold up in production.
 
 </details>
 
 <details>
-  <summary><b>Engineer View (platform + architecture)</b></summary>
+  <summary><b>Engineer View </b></summary>
 
   <br/>
 
-  **Focus:** CI-first mobile automation platforms across iOS/Android using Appium, with parallel scaling, reporting,
-  environment-aware configs, and hybrid API + UI testing strategies.
+**Focus**: CI-first automation platforms across mobile and API systems, built for scalability, parallel execution, environment isolation, and production-grade validation.
 
-  **Core themes**
-  - Modular framework design (Screen/Page Objects)
-  - Tag-based execution (smoke / regression / e2e)
-  - Cloud-device execution (Sauce Labs) + stable environments
-  - Analytics/observability-informed coverage (Sentry, Adobe Analytics, Mixpanel, New Relic)
+**Core themes**:
+- Modular framework architecture (Page/Screen Object patterns)
+- Tag-driven execution (smoke/regression/e2e)
+- Cloud device execution (Sauce Labs) + Dockerized CI pipelines
+- Deterministic runs (seeded data, isolated environments, minimal flakiness)
+- Hybrid API + UI validation strategies
+- Observability-informed coverage (Sentry, Mixpanel, New Relic)
+- Stable, API-driven test data management
 
+**Goal**: Model how quality behaves in production - not just how tests pass locally.
 </details>
 
 ---
 
-## About me (in Python)
+## About Me 
 
 ```python
 class MarianDadzie:
     def __init__(self, audience: str = "recruiter"):
         self.audience = audience.lower().strip()
+
         self.name = "Marian Dadzie"
         self.username = "mariand755"
         self.location = "Chicago, IL"
-        self.role = "Senior Mobile QE / SDET"
+        self.role = "Quality Engineer | Automation Architecture & CI/CD Governance"
 
-        self.fun_facts = {
-            "born": "Ghana",
-            "hobbies": [
-                "Theater",
-                "Gardening",
-                "Baking",
-                "Reading",
-            ],
-        }
+        self.focus = [
+            "Quality systems that hold up in production",
+            "CI-first automation + PR quality gates",
+            "Mobile + API + cross-system validation",
+            "Release confidence, risk visibility, and measurable stability",
+        ]
+
+        self.platforms = ["iOS", "Android", "Web", "Backend APIs", "Distributed Systems"]
 
         self.industries = [
             "FinTech / Payments",
@@ -98,36 +99,34 @@ class MarianDadzie:
             "Big Tech / Infrastructure",
         ]
 
-        self.platforms = [
-            "iOS",
-            "Android",
-            "Web",
-            "Backend APIs",
-        ]
+        self.fun_facts = {
+            "born": "Ghana",
+            "hobbies": ["Theater", "Gardening", "Baking", "Reading"],
+        }
 
         self.looking_for_roles = [
-            "Lead Mobile SDET",
-            "Staff / Senior Staff SDET",
-            "Quality Platform Engineer",
+            "Staff / Principal Quality Engineer",
             "Test Automation Architect",
+            "Quality Platform Engineer",
+            "Lead QA Engineer",
         ]
 
     def summary(self):
         if self.audience == "engineer":
             return (
-                f"{self.name} builds CI-first mobile automation platforms across iOS and Android, "
-                f"focused on scalable frameworks, parallel execution, reporting, and quality gates."
+                f"{self.name} designs CI-integrated automation platforms across mobile and API systems, "
+                f"environment-aware configs, parallel execution, and quality gates that reduce noise and increase trust."
             )
         return (
-            f"{self.name} is a {self.role} who builds reliable, scalable quality solutions "
-            f"for modern mobile and backend systems."
+            f"{self.name} builds quality systems that help teams ship faster with confidence, "
+            f"automation architecture, CI/CD quality gates, and cross-system validation."
         )
 
     def looking_for(self):
         roles = ", ".join(self.looking_for_roles[:-1]) + f", and {self.looking_for_roles[-1]}"
         return (
-            f"I’m currently looking for {roles} roles where I can help teams "
-            f"scale mobile quality, improve CI/CD confidence, and mentor engineers."
+            f"Open to {roles} roles where I can strengthen release confidence, "
+            f"scale automation thoughtfully, and mentor engineers toward production-ready quality practices."
         )
 
     def __repr__(self):
@@ -147,9 +146,4 @@ if __name__ == "__main__":
 ```
 
 
-<h2 align="center"> ⚙️ Git Analytics </h2>
- 
- <p align="center" ><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariand755&theme=dark&layout=compact" width="410" /></p>
-
-          
 

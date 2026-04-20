@@ -109,6 +109,7 @@ class MarianDadzie:
             "Test Automation Architect",
             "Quality Platform Engineer",
             "Lead QA Engineer",
+            "AI QA Engineer",
         ]
 
     def summary(self):

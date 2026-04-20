@@ -1,5 +1,5 @@
 
-<h2 align="center"> Senior Quality Engieer </b> • Automation Architecture & CI/CD Governance •  Mobile, API & Distributed Systems </h2>
+<h2 align="center"> Senior Quality Engieer </b> • Automation Architecture & CI/CD Governance •  Mobile, API & Distributed Systems • AI-Driven QA & Agent Systems </h2>
   
 
 <p align="center">

@@ -79,7 +79,7 @@ class MarianDadzie:
         self.name = "Marian Dadzie"
         self.username = "mariand755"
         self.location = "Chicago, IL"
-        self.role = "Quality Engineer | Automation Architecture & CI/CD Governance"
+        self.role = "Senior Quality Engineer | Automation Architecture & CI/CD Governance"
 
         self.focus = [
             "Quality systems that hold up in production",
@@ -105,7 +105,7 @@ class MarianDadzie:
         }
 
         self.looking_for_roles = [
-            "Staff / Principal Quality Engineer",
+            "Principal Quality Engineer",
             "Test Automation Architect",
             "Quality Platform Engineer",
             "Lead QA Engineer",
